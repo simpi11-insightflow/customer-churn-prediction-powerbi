@@ -38,17 +38,16 @@ KEY INSIGHTS
 
 DASHBOARD PAGES 
 CUSTOMER RETENTION OPTIMIZATION DASHBOARD
-![Dashboard 1](dashboard_images/dashboard1.png)
+![Dashboard 1](dashboard_images/Customer%20Retention%20Optimization%20Dashboard%20Image%201.png)
 
 CUSTOMER CHURN ANALYSIS
-![Dashboard 2](dashboard_images/dashboard3.png)
+![Dashboard 2](dashboard_images/Customer%20Retention%20Optimization%20Dashboard%20Image%202.png)
 
 SERVICE-BASED CHURN INSIGHTS
-![Dashboard 3](dashboard_images/dashboard3.png)
+![Dashboard 3](dashboard_images/Customer%20Retention%20Optimization%20Dashboard%20Image%203.png)
 
 CUSTOMER CHURN PREDICTION & BUSINESS IMPACT ANALYSIS
-![Dashboard 4](dashboard_images/dashboard4.png)
-
+![Dashboard 4](dashboard_images/Customer%20Retention%20Optimization%20Dashboard%20Image%204.png)
 BUSINESS OBJECTIVES
 The purpose of this project is to help businesses:
 - Reduce customer churn
